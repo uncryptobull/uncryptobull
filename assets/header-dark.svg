@@ -1,24 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
-<title id="title">Seva — Platform engineering apprentice</title>
-<desc id="desc">Personal developer profile. Systems, networks and software.</desc>
-<rect width="1200" height="320" fill="#0A0B0D"/>
-<rect width="7" height="320" fill="#0052FF"/>
-<g font-family="Arial, Helvetica, sans-serif">
-<rect x="44" y="38" width="38" height="38" rx="7" fill="#0052FF"/>
-<path d="M55 49v12c0 7 16 7 16 0V49" fill="none" stroke="white" stroke-width="3"/>
-<text x="97" y="63" font-size="17" font-weight="700" letter-spacing="2" fill="#EEF0F3">UNCRYPTOBULL</text>
-<text x="44" y="159" font-size="64" font-weight="700" letter-spacing="-2" fill="#FFFFFF">Seva.</text>
-<text x="47" y="201" font-size="26" fill="#B9C2CF">Platform engineering apprentice</text>
-<path d="M47 239H1153" stroke="#252B35"/>
-<text x="47" y="279" font-size="15" letter-spacing="2" fill="#B9C2CF">SYSTEMS</text>
-<circle cx="168" cy="274" r="3" fill="#0052FF"/>
-<text x="190" y="279" font-size="15" letter-spacing="2" fill="#B9C2CF">NETWORKS</text>
-<circle cx="332" cy="274" r="3" fill="#0052FF"/>
-<text x="354" y="279" font-size="15" letter-spacing="2" fill="#B9C2CF">SOFTWARE</text>
-<text x="1153" y="279" text-anchor="end" font-size="14" fill="#8492A6">SWITZERLAND</text>
-</g>
-<g transform="translate(962 75)" fill="none" stroke="#2D65FF" stroke-width="2">
-<rect x="0" y="0" width="146" height="28" rx="4"/><rect x="0" y="40" width="146" height="28" rx="4"/><rect x="0" y="80" width="146" height="28" rx="4"/>
-<path d="M16 14h28m-28 40h28m-28 40h28" stroke-linecap="round"/>
-<circle cx="127" cy="14" r="3" fill="#0052FF" stroke="none"/><circle cx="127" cy="54" r="3" fill="#0052FF" stroke="none"/><circle cx="127" cy="94" r="3" fill="#0052FF" stroke="none"/>
-</g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" viewBox="0 0 1200 190" role="img" aria-label="uncryptobull — software and systems">
+<rect width="1200" height="190" fill="#0D1117"/>
+<text x="0" y="96" font-family="Arial, Helvetica, sans-serif" font-size="70" font-weight="700" letter-spacing="-3" fill="#578BFA">uncryptobull</text>
+<text x="3" y="137" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="3" fill="#919BA8">SOFTWARE &amp; SYSTEMS</text>
+<path d="M0 183H1200" stroke="#30363D"/>
+</svg>
