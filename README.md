@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
-  <img alt="uncryptobull — software and systems" src="assets/header-light.svg" width="1200">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/wordmark-dark-v2.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/wordmark-light-v2.svg">
+  <img alt="uncryptobull — software and systems" src="assets/wordmark-light-v2.svg" width="1200">
 </picture>
 
 Software, systems and the infrastructure between them.
