@@ -13,6 +13,3 @@ Software, systems and the infrastructure between them.
 **Interface** &nbsp; React / HTML / CSS  
 **Workflow** &nbsp; Git / GitHub / GitLab
 
-<br>
-
-[Explore repositories ↗](https://github.com/uncryptobull?tab=repositories)
